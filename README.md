@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 <h3 align="center">Student👨‍🎓 | Developer👨‍💻 | Contributor🤝</h3>
 
-- 💬 Ask me about **HTML5 CSS3 JAVASCRIPT**
-
-- 📫 How to reach me **prathampatil2826@gmail.com**
+- ✨ Github : **Mrhappyhere**
 <img src="https://user-images.githubusercontent.com/80676763/119568551-2ca5b480-bdcb-11eb-92c2-0fdf4cbadb0a.png" height="200" width="500" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
