@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **prathampatil2826@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="mrhappyhere" height="30" width="40" /></a>
