@@ -10,6 +10,7 @@
 <a href="https://twitter.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="mrhappyhere" height="30" width="40" /></a>
 <a href="https://instagram.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="mrhappyhere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathampatil" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="prathampatil" height="30" width="40" /></a>
+<a href="https://dev.to/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="prathampatil" height="30" width="40" /></a>  
 </p>
 
 
