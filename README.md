@@ -2,7 +2,7 @@
 <h3 align="center">Student👨‍🎓 | Developer👨‍💻 | Contributor🤝</h3>
 
 - ✨ Github : **Mrhappyhere**
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="prathampatil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prathampatil?trk=profile-badge">Prathamesh Patil</a></div>
+
 <img src="https://user-images.githubusercontent.com/80676763/119568551-2ca5b480-bdcb-11eb-92c2-0fdf4cbadb0a.png" height="200" width="500" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
