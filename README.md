@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Mrhappyhere" target="blank"><img src="https://img.icons8.com/nolan/96/github.png" height="40" width="40"/>✨**Mrhappyhere**</a>
 
-<img src="https://user-images.githubusercontent.com/80676763/119568551-2ca5b480-bdcb-11eb-92c2-0fdf4cbadb0a.png" height="200" width="500" align="right"/>
+<a href="https://www.animatedimages.org/cat-robots-118.htm"><img src="https://www.animatedimages.org/data/media/118/animated-robot-image-0051.gif" border="0" alt="animated-robot-image-0051"  height="100" width="150" align="center" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhappyhere&show_icons=true&locale=en" alt="mrhappyhere" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhappyhere&" alt="mrhappyhere" /></p>
