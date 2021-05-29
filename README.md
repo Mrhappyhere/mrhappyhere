@@ -10,7 +10,7 @@
 <a href="https://www.animatedimages.org/cat-robots-118.htm"><img src="https://www.animatedimages.org/data/media/118/animated-robot-image-0051.gif" border="0" alt="animated-robot-image-0051"  height="100" width="150" align="center" /></a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<p align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?font=&color=FFFFFF&center=true&vCenter=true&width=450&height=30&lines=Connect+with+me%3A"/></p>
 
 <p align="center">
 <a href="https://twitter.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="mrhappyhere" height="30" width="40" align="center" /></a>
