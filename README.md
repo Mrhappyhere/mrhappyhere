@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1> -->
+
 
 <p align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=1BBB00&size=30&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Patil"/></p>
   
