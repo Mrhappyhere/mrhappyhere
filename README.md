@@ -1,7 +1,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=1BBB00&size=30&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Patil"/></p>
   
-<p align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=450&height=75&lines=Student%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+%7C+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%7C+Contributor%F0%9F%A4%9D"/></p>
+<p align="center"><h3  align="center">Student👨‍🎓 | Developer👨‍💻 | Contributor🤝</h3></p>
 
 <p align="center">
 <a href="https://github.com/Mrhappyhere" target="blank"><img src="https://img.icons8.com/nolan/96/github.png" height="40" width="40" align="center"/></a>
