@@ -2,8 +2,6 @@
 <p align="center">&nbsp;<img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?color=1BBB00&size=30&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Patil"/></p>
 
 <p align="center"><h4  align="center">Student👨‍🎓 | Developer👨‍💻 | Contributor🤝</h4></p>
-<hr>
-
 
 
 <p align="center">
@@ -33,6 +31,8 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="30"/> </a>
 </p>
+
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhappyhere&show_icons=true&locale=en" alt="mrhappyhere" width="48%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhappyhere&" alt="mrhappyhere" width="48%" /></p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhappyhere&" alt="mrhappyhere" width="48%" />
+</p>
