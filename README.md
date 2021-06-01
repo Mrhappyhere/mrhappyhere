@@ -35,5 +35,5 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhappyhere&show_icons=true&locale=en" alt="mrhappyhere" width="48%"/>
-  
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhappyhere&" alt="mrhappyhere" width="48%" />
 </p>
