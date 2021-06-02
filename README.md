@@ -1,5 +1,5 @@
 
-<p align="center">&nbsp;<img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?color=1BBB00&size=30&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Patil"/></p>
+<p align="center">&nbsp;<img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?color=1BBB00&size=30&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh"/></p>
 
 <p align="center"><h4  align="center">Student👨‍🎓 | Developer👨‍💻 | Contributor🤝</h4></p>
 
