@@ -13,8 +13,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/prathampatil" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt="prathampatil" height="40" width="40" align="center" /></a>
 <a href="https://instagram.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="mrhappyhere" height="40" width="40" align="center" /></a>
-<a href="https://github.com/Mrhappyhere" target="blank"><img src="https://img.icons8.com/nolan/96/github.png" height="30" width="40" align="center"/></a>  
-<a href="https://dev.to/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/windows/32/fa314a/dev.png" alt="prathampatil" height="30" width="40" align="center" /></a>
+<a href="https://github.com/Mrhappyhere" target="blank"><img src="https://img.icons8.com/nolan/96/github.png" height="40" width="40" align="center"/></a>  
+<a href="https://dev.to/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/windows/32/fa314a/dev.png" alt="prathampatil" height="40" width="40" align="center" /></a>
 <a href="https://twitter.com/mrhappyhere" target="blank"><img align="center" <img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="mrhappyhere" height="40" width="40" align="center" /></a>
   </p>
                                                                                                                                        
